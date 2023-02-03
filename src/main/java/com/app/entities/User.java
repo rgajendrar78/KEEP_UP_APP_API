@@ -24,7 +24,6 @@ public class User {
 	private String Name;
 	private String Title;
 	private String Hiredate;
-	private String test;
 	private String Country;
 	private String ReportTo;
 	private String Image;
